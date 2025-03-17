@@ -47,7 +47,6 @@ npm run dev
 ✅ Responsive design  
 
 ## 📸 Screenshot
-## 📸 Screenshot
 ![Progress Bar Screenshot](./src/assets/progressbar2.png)
 
 
